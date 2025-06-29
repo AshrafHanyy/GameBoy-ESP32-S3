@@ -12,7 +12,7 @@ The main difference between omer's original build and this one is the following:
 4. I used different sd card reader [link](https://www.amazon.com/WWZMDiB-Adater-Module-Support-Arduino/dp/B0B779R5TZ/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.aWM2MrxhONxxTLmTiowiAHwM0X7iGeoSREJd208zw7UC8DUginJgBKC5TyIZixGVTPJUJ4pcLgj7fnIu_xYBE_WFBMoYucF0oeL4RxpROWm77Ort5kAATJJF1iM-Schq9-8k8JJckAuF7UM5F3-k1iowLy2QN698mc8rvpAT-Ww1JFZxBFs5vSf5Ip4EN9T_Oe-axW9pudgF79QtUBiZCksTT3VMFJ4KzniitSRPb6I.1r8obVmMQSyu-CGYcS3nsJRE28QRxYTuz-OAtTGmhnc&dib_tag=se&keywords=sd+card+reader+module&qid=1751212247&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) (larger in size than the original build)
 
 Please refer to omer hasanov's repo to get the 3D files for this ESP32-S3-N16R8 build: [here](https://github.com/ohasanov-hbrw/ESP32-Gameboy)
-
+Video tutorial soon!
 ![Gameboy Image](GB2.jpeg)
 ![Gameboy Image](GB1.jpeg)
 
