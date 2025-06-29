@@ -18,5 +18,3 @@ Please refer to omer hasanov's repo to get the 3D files for this ESP32-S3-N16R8 
 ![Gameboy Image](GB2.jpeg)
 ![Gameboy Image](GB1.jpeg)
 
-The Buil
-
