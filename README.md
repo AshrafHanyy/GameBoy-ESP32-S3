@@ -1,5 +1,5 @@
 # GameBoy-ESP32-S3
-This repo is dedicated for an ESP32-S3-N16R8 Retro-go Gameboy .
+This repo is dedicated for my ESP32-S3-N16R8 Retro-go Gameboy build.
 
 Please refer to the original retro-go firmaware page for instructions on how to build and flash.
 
