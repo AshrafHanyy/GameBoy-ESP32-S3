@@ -2,8 +2,9 @@
 This repo is dedicated for my ESP32-S3-N16R8 Retro-go Gameboy build.
 
 Please refer to the original retro-go firmaware page for instructions on how to build and flash.
-
-For the ESP32-S3-N16R8, <span style="color: red;"> the pin configuration is included in the`config.h` file.</span>
+<font color="red">
+For the ESP32-S3-N16R8, the pin configuration is included in the`config.h` file.
+</font>
 
 The main difference between omer's original build and this one is the following: 
 1. I used a different power circuit (layed out in schematic file in this repo)
