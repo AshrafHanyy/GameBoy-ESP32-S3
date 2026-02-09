@@ -16,10 +16,6 @@ Please refer to omer hasanov's repo to get the 3D files for this ESP32-S3-N16R8 
 Video tutorial soon!
 
 ![Gameboy Image](GB2.jpeg)
-<video src="https://ashrafhanyy.github.io/blog/building-a-gameboy/first.mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
-![video](https://ashrafhanyy.github.io/blog/building-a-gameboy/first.mp4)
 ![Gameboy Image](GB1.jpeg)
 ![Gameboy Image](IMG_5933.png)
 
