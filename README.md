@@ -19,6 +19,7 @@ Video tutorial soon!
 <video src="https://ashrafhanyy.github.io/blog/building-a-gameboy/first.mp4" controls width="100%">
   Your browser does not support the video tag.
 </video>
+![video](https://ashrafhanyy.github.io/blog/building-a-gameboy/first.mp4)
 ![Gameboy Image](GB1.jpeg)
 ![Gameboy Image](IMG_5933.png)
 
